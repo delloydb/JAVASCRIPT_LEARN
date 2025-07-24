@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cart Quantity</title>
+</head>
+<body>
+
+    <button onclick="console.log('Current cart quantity:', cartQuantity);">
+        Show Quantity
+    </button>
+    <button onclick="cartQuantity += 1; console.log('Added to cart:', cartQuantity);">
+        Add to Cart
+    </button>
+    <button onclick="cartQuantity += 2; console.log('Added to cart:', cartQuantity);">
+        +2
+    </button>
+    <button onclick="cartQuantity += 3; console.log('Added to cart:', cartQuantity);">
+        +3
+    </button>
+    <button onclick="cartQuantity = 0; console.log('Cart was reset to:', cartQuantity);">
+        Reset Cart
+    </button>
+
+    <script>
+        let message = "Welcome to the cart management system!";
+
+        let cartQuantity = 0;
+//let is a changable variable that can be updated
+      const variable2 = 5;
+//const is a constant variable that cannot be changed
+        var calculation = 10;
+//var is a variable that can be updated but has function scope - meaning it can be accessed outside the block it was defined in
+            console.log(typeof cartQuantity); // Outputs: number    
+            console.log(typeof variable2); // Outputs: number
+            console.log(typeof calculation); // Outputs: number
+            console.log(typeof message); // Outputs: string
+
+    </script>
+</body>
+</html>
