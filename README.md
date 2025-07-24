@@ -22,5 +22,52 @@ This repo contains:
 
 ---
 
-## 📂 Folder Structure
+
+---
+
+## 📆 Current Focus
+
+I'm currently working through:
+
+- ✅ JavaScript fundamentals (variables, loops, functions)
+- ✅ DOM manipulation
+- 🔄 ES6+ features (arrow functions, destructuring, etc.)
+- ⏳ Asynchronous JavaScript (Promises, async/await)
+- 📦 Modules & modern tooling (Bundlers, NPM)
+
+---
+
+## 🎯 Goals
+
+- Build real-world projects using vanilla JS
+- Gain a strong understanding of core JS concepts
+- Transition to frameworks like React.js with a solid JS foundation
+
+---
+
+## 🧩 Tech Stack
+
+- JavaScript (Vanilla ES6+)
+- HTML & CSS (for integration)
+- Node.js (optional for later backend exploration)
+
+---
+
+## 📝 License
+
+This project is for personal learning and open to anyone who wants to follow along, give feedback, or use the examples. Feel free to fork and explore!
+
+---
+
+## 🙌 Acknowledgements
+
+Big thanks to the creators of open tutorials, interactive platforms, and JS communities that support learners around the globe.
+
+---
+
+## 📬 Contact
+
+If you’d like to collaborate, share feedback, or ask questions, feel free to reach out!
+
+
 
